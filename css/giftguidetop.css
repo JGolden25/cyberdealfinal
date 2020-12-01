@@ -226,12 +226,12 @@ body {
   
   .ggtitle {
     position: absolute;
-    top: 30%;
+    top: 37%;
     left: 25%;
     transform: translate(-50%, -50%);
     color: var(---1b3e70);
 text-align: center;
-font: normal normal 800 50px/50px Montserrat;
+font: normal normal 800 75px/75px Montserrat;
 letter-spacing: 2.5px;
 color: #1B3E70;
 text-transform: uppercase;
@@ -240,7 +240,7 @@ opacity: 1;
 
   .ggsub {
     position: absolute;
-    top: 42%;
+    top: 50%;
     left: 25%;
     transform: translate(-50%, -50%);
     color: var(---1b3e70);
@@ -264,7 +264,7 @@ letter-spacing: 0.7px;
 /* font-weight: 0; */
 width: 179px;
     position: absolute;
-    top: 50%;
+    top: 58%;
     left: 25%;
     transform: translate(-50%, -50%);
     text-align: center;
